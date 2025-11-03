@@ -1,3 +1,6 @@
+![Alt text](https://raw.githubusercontent.com/mahardisetyoso/mahardisetyoso/refs/heads/main/header.png)
+
+
 # Hi, I'm Mahardi 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/USERNAME)
