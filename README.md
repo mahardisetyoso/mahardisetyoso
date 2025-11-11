@@ -16,4 +16,4 @@ I'm a **Geospatial / Data enthusiast** who loves building dashboards, Streamlit 
 - 🗃️ Supabase + Python ETL
 
 ### 🛠 Tech
-Python · SQL · Streamlit · Supabase · GeoPandas
+Python · SQL · QGIS · Supabase · LookerStudio · WebApp · Docker 
